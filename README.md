@@ -2,6 +2,6 @@
 
 Content for the programming club's JavaScript meetings. ☕️
 
-### Challenges
+### Challenges 🚀
 
-##[Day 1](Day%201)
+[Day 1](Day%201)
