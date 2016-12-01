@@ -1,6 +1,6 @@
 # Day 1 Challenges
 
-Use Javascript to solve fun problems!
+Use Javascript to solve fun problems! Head over to [JSBin](http://jsbin.com/?js,console) to get started. 
 
 ## Easy
 
