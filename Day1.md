@@ -27,4 +27,4 @@ Use Javascript to solve fun problems! Head over to [JSBin](http://jsbin.com/?js,
 
 4) Write a program to calculate the first N digits of π 
 
-5) Implement your an array sort algorithm of your choice in Javascript (Bubble Sort, Quicksort, Insertion Sort, Bogosort, etc.)
+5) Implement an array sort algorithm of your choice in Javascript (Bubble Sort, Quicksort, Insertion Sort, Bogosort, etc.)
