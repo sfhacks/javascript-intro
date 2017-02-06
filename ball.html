@@ -45,11 +45,12 @@
         var dy = 5;
         var ball = document.getElementById('ball');
         function changeColor() {
-          var r = Math.random() * (255 - 1) + 1;
-          var g = Math.random() * (255 - 1) + 1;
-          var b = Math.random() * (255 - 1) + 1;
-          ball.style.backgroundColor = "rgb(" + r + "," + g + "," + b + ")";
+          var r = Math.floor(Math.random() * (255 - 1) + 1);
+          var g = Math.floor(Math.random() * (255 - 1) + 1);
+          var b = Math.floor(Math.random() * (255 - 1) + 1);
+          ball.style.backgroundColor = "rgb(" + r + ", " + g + ", " + b + ")";
         }
+        changeColor();
         setInterval(function () {
             ball.style.top = y + 'px';
             ball.style.left = x + 'px';
